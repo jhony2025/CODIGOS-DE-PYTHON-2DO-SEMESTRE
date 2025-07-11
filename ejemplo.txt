@@ -1,0 +1,2 @@
+Este es un ejemplo de uso de constructores y destructores en Python.
+Este archivo será cerrado automáticamente.
